@@ -2,6 +2,7 @@ services:
     apache:
         image: tugboatqa/httpd
         subpath: true
+        subpath_map: true
         aliases: test
         http: true
         https: false

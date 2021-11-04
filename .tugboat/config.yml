@@ -28,3 +28,5 @@ services:
                     - estimated-input-latency
                     - first-cpu-idle
                     - uses-webp-images
+        urls:
+          - /

@@ -28,3 +28,5 @@ services:
             - category: accessibility
               threshold: 85
               tolerance: 0
+        urls:
+          - /
